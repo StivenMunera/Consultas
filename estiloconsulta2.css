@@ -1,0 +1,61 @@
+.parrafo {
+    position: absolute;
+    width: 1440px;
+    height: 1200px;
+    top: 280px;
+    font-size: 25px;
+  }
+  .cabecera {
+    position: absolute;
+    width: 745px;
+    height: 211px;
+  
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 51px;
+    text-align: center;
+    top:-30px;
+  
+    color: #ff0000;
+  }
+  .cabecerafecha {
+    position: absolute;
+    width: 18px;
+    height: 51px;
+    left: 1160px;
+    top: 0px;
+  
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 51px;
+    /* identical to box height */
+  
+    text-align: center;
+  
+    color: #ff0000;
+  }
+  .tema {
+    position: absolute;
+    width: 453px;
+    height: 52px;
+  
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    top: 180px;  
+    color: #000000;
+  }
+  .fondo{
+      position: absolute;
+      width: 1440px;
+      height: 1024px;
+      background-image: url(../Imagenes/Pagina.jpg);
+      background-size: cover;
+  }
+  
+  
